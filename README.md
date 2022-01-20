@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @SomeDad 
-- 👀 I’m interested in Basketball and anything to do with my kids.
-- 🌱 I’m currently learning CyberSec to enter the industry. 
-- 💞️ I’m looking to collaborate on anything that will help me learn! 
-- 📫 How to reach me: LinkedIn or carrier pigeon. 
+Hi, I'm Michael (SomeDad), I'm currently a Detective Senior Constable with Victoria Police and I'm an aspiring SOC Analyst. 
 
-<!---
-SomeDad/SomeDad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I have been a Detective in a number of different offices and investigated different themes including general crime (assaults and fraud), drugs, sexual offences, child abuse and most recently family violence. 
+
+Investigating a number of complex offences that occurred via the internet got me really interested in how the internet works and cybersecurity. Being able to "follow the trail" to see exactly how, where and when different events occurred opened up a whole new world to me and I'm excited to see where it will take me. 
+
+I'm now dedicating my time to study and learn as much as I can about cybersecurity to make a career change. 
