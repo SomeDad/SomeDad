@@ -1,4 +1,4 @@
-Hi, I'm Michael (SomeDad), I'm currently a Detective Senior Constable with Victoria Police and I'm an aspiring SOC Analyst. 
+Hi, I'm Michael (SomeDad), I'm currently a Detective Senior Constable with Victoria Police and I'm an aspiring Cyber Security Professional. 
 
 I have been a Detective in a number of different offices and investigated different themes including general crime (assaults and fraud), drugs, sexual offences, child abuse and most recently family violence. 
 
